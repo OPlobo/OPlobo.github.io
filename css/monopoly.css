@@ -1,0 +1,254 @@
+/*#a0{
+	text-align: center;
+	width: calc(15% - 4px);
+	margin-top: 25px;
+	margin-left: 10px;
+	border: 2px dashed red;
+	font-size:30px;
+}*/
+
+#b1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -999;
+}
+
+#b1 img {
+	margin-top: -600px;
+	margin-left: -390px;
+    min-height: 100%;
+    width: 150%;
+}
+
+#a1{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 310px;
+    left:700px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a2{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 400px;
+    left:850px;
+    background-color: white;
+ 	font-family: 微軟正黑體;
+ 	border-radius: 25%;
+}
+
+#a3{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 450px;
+    left:525px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a4{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 350px;
+    left:275px;
+    font-family: 微軟正黑體;
+    background-color: white;
+    border-radius: 25%;
+}
+
+#a5{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 225px;
+    left:350px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 50%;
+}
+
+#a6{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 150px;
+    left:575px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a7{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 125px;
+    left:850px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 50%;
+}
+
+#a8{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:15px;
+	position:absolute;
+	top:97.5px;
+    left:850px;
+    background-color: white;
+    font-family: 微軟正黑體;
+}
+
+
+#a9{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 125px;
+    left:1200px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a10{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 250px;
+    left:1400px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 50%;
+}
+
+#a11{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 400px;
+    left:1300px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a12{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 550px;
+    left:1150px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 50%;
+}
+
+#a13{
+	text-align: center;
+	width: calc(7% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 600px;
+    left:800px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+}
+
+#a14{
+	text-align: center;
+	width: calc(7% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 612.5px;
+    left:450px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 25%;
+    color: black;
+}
+
+
+#a15{
+	text-align: center;
+	width: calc(5% - 4px);
+	border: 2px dashed red;
+	font-size:30px;
+	position:absolute;
+	top: 650px;
+    left:100px;
+    background-color: white;
+    font-family: 微軟正黑體;
+    border-radius: 50%;
+    color: black;
+}
+
+h2{
+	position:absolute;
+	margin-top: 5px;
+    left:10px;
+    border: 2px dashed red;
+	font-size: 50px;
+	color: rgb(255,189,46);
+	font-family: serif;
+	text-decoration:underline;
+	font-style: oblique;
+}
+
+button{
+	color: black;
+	position:absolute;
+	top: 100px;
+    left:50px;
+}
+
+#demo {
+	position: absolute;
+	top: 120px;
+    left:30px;
+    font-size: 20px;
+    font-family: serif;
+    font-style: oblique;
+    font-weight:bolder; 
+	color: white;
+	width: calc(22% - 4px);
+	
+}
